@@ -20,6 +20,7 @@ venv/
 .venv/
 
 # 打包压缩文件与临时日志
+logs/
 *.zip
 *.tar.gz
 *.log
@@ -33,3 +34,4 @@ venv/
 .idea/
 .vscode/
 .claude/
+
