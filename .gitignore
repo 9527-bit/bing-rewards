@@ -1,0 +1,35 @@
+# 账号与敏感凭证（严禁上传）
+bing_accounts.json
+bing_cookies.json
+*.json.bak
+*.cookie
+
+# 运行时浏览器独立数据与缓存
+browser_profile/
+browser_profile*/
+userData/
+
+# Python 缓存与编译产物
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# 打包压缩文件与临时日志
+*.zip
+*.tar.gz
+*.log
+
+# IDE 与操作系统残留
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.idea/
+.vscode/
+.claude/
